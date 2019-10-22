@@ -38,7 +38,7 @@ end
 # Define your play method below
 def play(board)
   total_turns = 0
-  while condition
+  while total_turns
 
   end
 end
